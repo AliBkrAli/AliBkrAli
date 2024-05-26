@@ -1,10 +1,8 @@
 # Hello, World! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/juniorcundari/)
-[![Personal Badge](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logoColor=0E76A8)](https://juniorcundari.vercel.app/)
-[![Yahoo Badge](https://img.shields.io/badge/-jrcundari@yahoo.com.br-000?style=for-the-badge&logo=Yahoo&logoColor=430297&link=mailto:jrcundari@yahoo.com.br)](mailto:jrcundari@yahoo.com.br)
+(Bakrali015@gmail.com)
 
-## My name's Ali Bkr Ali AlHassan! 🤟
+## My name's Ali Bakr Ali AlHassan! 🤟
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Node](https://img.shields.io/badge/Node-000?style=for-the-badge&logo=node.js)
